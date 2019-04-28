@@ -1,5 +1,5 @@
-def new_hash => {
-
+def new_hash = {
+	pets: ["cat", "dog", "bird"]
 }
 
 end
