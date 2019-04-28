@@ -52,9 +52,9 @@ def monopoly_with_third_tier
 				{
 
 				},
-				:pennsylvania_railroad => 
+				:pennsylvania_railroad =>
 				{
-					
+
 				}
 			}
 		}
