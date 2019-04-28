@@ -62,7 +62,7 @@ def monopoly_with_third_tier
 				},
 				:shortline =>
 				{
-					
+
 				}
 			}
 		}
@@ -117,7 +117,7 @@ def monopoly_with_third_tier
 				},
 				:shortline =>
 				{
-					
+
 				}
 			}
 		}
