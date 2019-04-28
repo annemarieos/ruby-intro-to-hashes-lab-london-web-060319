@@ -1,6 +1,6 @@
-def new_hash = {
-	pets: ["cat", "dog", "bird"]
-}
+def new_hash = ({
+	
+	})
 
 end
 
